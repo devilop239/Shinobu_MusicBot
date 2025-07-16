@@ -6,7 +6,6 @@ aiofiles
 apscheduler
 beautifulsoup4
 dnspython==2.3.0
-ffmpeg-python
 motor==3.3.2
 pillow==9.5.0
 pydub
@@ -18,15 +17,5 @@ tgcrypto
 telegraph==2.2.0
 unidecode
 yt-dlp==2023.12.30
-spotipy
-gtts
-qrcode
-pyyaml==6.0.1
 openai==0.28.0
-lyricsgenius
-moviepy
-future==0.18.3
 python-dotenv
-emojis
-git+https://github.com/AsmSafone/SafoneAPI
-https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.23.zip
