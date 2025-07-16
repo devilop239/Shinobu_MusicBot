@@ -3,4 +3,4 @@ tgcrypto
 pytgcalls==3.0.0.dev22
 pymongo
 aiohttp
-yt-dlp==2024.01.28
+yt-dlp==2023.12.30
